@@ -13,6 +13,9 @@ Atualmente, estou trabalhando como desenvolvedor PHP júnior na META Soluções 
 
 Tenho alguns projetos de jogos, como o remake do Megaman citado antes, e um aplicativo desenvolvido na unity para calculo de algumas funções matemáticas. Todos estão no meu [itch.io](https://canaldojackson.itch.io)
 
+### Projetos
+  - [JS Game Detona Ralph](https://gabriel-jackson.github.io/detona-ralph-game/) - Jogo feito em JS, CSS e HTML para desafio de projeto da DIO. Meu Código fonte [aqui](https://github.com/Gabriel-Jackson/detona-ralph-game)
+
 # Minhas Redes
 
 * LinkedIn: [@gabriel-christ-da-silva](https://www.linkedin.com/in/gabriel-christ-da-silva/)
